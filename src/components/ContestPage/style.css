@@ -1,0 +1,32 @@
+ul {
+    list-style: disc;
+    font-size: larger;
+}
+ 
+ul li {
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+em {
+    font-style: italic;
+}
+
+code {
+    background-color: #3d3d3d;
+    padding: 2px 4px;
+    border-radius: 6px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+p {
+    line-height: 1.5;
+}
